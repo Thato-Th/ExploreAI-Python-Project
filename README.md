@@ -6,7 +6,7 @@ To analyse the time series data on vegetable prices in in India. The aim is to d
 
 According to the India Meteorological Department, the below are the four designated seasons: <br />
 Winter: Dec to early Feb <br />
-Summer =: Mar to May <br />
+Summer: Mar to May <br />
 Rainy: Jun to Sept <br />
 Autumn: Oct to Nov <br />
 
